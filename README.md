@@ -1,12 +1,12 @@
 # Root-Me Badge Generator
 
-## Features ✨
+## Features 
 
 - **Données Root-Me:** Taux de réussite basé sur le nombre de challenges présent par catégories et validés par l'utilisateur.
 - **Gestion de session:** Récupération de la session (`spip`) via la librairie python browser-cookie3 (Chrome, Firefox, Edge, etc.).
 - **Visuel:** Génère un badge au format PNG affichant les différentes catégories et informations de l'utilisateur.
 
-## Prérequis 🛠️
+## Prérequis 
 
 Avant de lancer le script, assurez-vous d'avoir installé les dépendances nécessaires :
 
