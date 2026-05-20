@@ -1,0 +1,4 @@
+requests
+bs4
+pillow
+browser-cookie3
