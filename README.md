@@ -1,5 +1,12 @@
 # Root-Me Badge Generator
 
+## Attention
+
+L'outil utilise une librairie récupérant directement les cookies de session sur la machine locale de l'utilisateur
+Le navigateur Mozilla Firefox stocke ses cookies dans une base de données sqlite, ainsi il n'est pas possible de lancer le programme
+lorsque Firefox est ouvert.
+Google Chrome fonctionne cependant très bien ouvert en simultané.
+
 ## Features 
 
 - **Données Root-Me:** Taux de réussite basé sur le nombre de challenges présent par catégories et validés par l'utilisateur.
