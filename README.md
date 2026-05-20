@@ -20,8 +20,7 @@ Avant de lancer le script, assurez-vous d'avoir installé les dépendances néce
 ```bash
 python3 -m pip install -r requirements.txt
 ```
-Assurez-vous d'avoir récupéré l'UID de votre utilisateur sur la page Root-Me dans vos paramètres.
-Assurez-vous de vous êtes connecté au moins une fois via n'importe quel navigateur afin de ne pas avoir de problème de session spip.
+Assurez-vous de vous être connecté au moins une fois via n'importe quel navigateur de votre machine ainsi que d'avoir récupéré votre UID dans les paramètres de votre compte Root-Me.
 
 Exemple d'utilisation de l'outil : 
 
