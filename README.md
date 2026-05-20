@@ -2,8 +2,8 @@
 
 ## Attention
 
-L'outil utilise une librairie récupérant directement les cookies de session sur la machine locale de l'utilisateur
-Le navigateur Mozilla Firefox stocke ses cookies dans une base de données sqlite, ainsi il n'est pas possible de lancer le programme
+L'outil utilise une librairie récupérant directement les cookies de session sur la machine locale de l'utilisateur,
+le navigateur Mozilla Firefox stocke ses cookies dans une base de données sqlite, ainsi il n'est pas possible de lancer le programme
 lorsque Firefox est ouvert.
 Google Chrome fonctionne cependant très bien ouvert en simultané.
 
