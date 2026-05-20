@@ -20,3 +20,8 @@ Exemple d'utilisation de l'outil :
 
 ```bash
 python3 badge_generator.py 123456
+```
+
+Rendu visuel final : 
+
+![Description de l'image](badge.png)
