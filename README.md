@@ -21,7 +21,7 @@ Avant de lancer le script, assurez-vous d'avoir installé les dépendances néce
 python3 -m pip install -r requirements.txt
 ```
 Assurez-vous de récupérer l'UID de votre utilisateur sur la page Root-Me dans vos paramètres.
-Assurez-vous de vous êtes connecté au moins via n'importe quel navigateur afin de ne pas avoir de problème de session spip.
+Assurez-vous de vous êtes connecté au moins une fois via n'importe quel navigateur afin de ne pas avoir de problème de session spip.
 
 Exemple d'utilisation de l'outil : 
 
